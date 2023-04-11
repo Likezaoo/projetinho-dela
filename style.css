@@ -80,6 +80,10 @@ section.imagem{
     
 
 }
+section#frase{
+    background-color: black;
+    color: white;
+}
 
 section#img01{
     background-image: url(imagens/foto1.jpg);
